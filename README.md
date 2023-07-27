@@ -15,7 +15,7 @@
 <nav>
         <ul>
             <li><a href="#home">Home</a></li>
-            <li><a href="#about">Tentang Kami</a></li>
+            <li><a href="#about">Tentang</a></li>
             <li><a href="#contact">Kontak</a></li>
         </ul>
     </nav>
@@ -46,3 +46,5 @@
     </footer>
 </body>
 </html>
+    
+
